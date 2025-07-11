@@ -7,6 +7,8 @@ Fuente de datos: [eXPerience83/pollenlevels](https://github.com/eXPerience83/pol
 
 Este panel muestra el nivel de polen para distintas zonas de España  y proporciona recomendaciones por tipo: 🌳 Árboles, 🌱 Gramíneas y 🌾 Maleza. Está basado en sensores en tiempo real del proyecto pollenlevels y diseñado para ser visual, dinámico y funcional con estilo tipo tarjeta meteorológica personalizada.
 
+![Alertas polen](assets/alertas_polen.PNG)
+
 ### 📊 Fuente de datos: 
 
 Los niveles de polen provienen del proyecto libre y actualizado [pollenlevels](https://github.com/eXPerience83/pollenlevels), que ofrece sensores compatibles con Home Assistant para distintas zonas de España. 
